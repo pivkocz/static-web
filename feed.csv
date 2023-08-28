@@ -1,0 +1,11 @@
+id,title,description,link,image_link,price,availability,quantity,brand
+1,Mountain Bike 1,High-performance mountain bike,https://www.example.com/bike1,https://www.example.com/images/bike1.jpg,599.99,in_stock,1,Adventure Bikes
+2,Road Bike 1,Smooth and fast road bike,https://www.example.com/bike2,https://www.example.com/images/bike2.jpg,799.99,preorder,0,Speedster Cycles
+3,City Bike 1,Commuter-friendly city bike,https://www.example.com/bike3,https://www.example.com/images/bike3.jpg,399.99,in_stock,2,Urban Cruisers
+4,Kids Bike 1,Colorful kids bike with training wheels,https://www.example.com/bike4,https://www.example.com/images/bike4.jpg,149.99,in_stock,3,Kid Adventures
+5,Electric Bike 1,Electric-assist urban bike,https://www.example.com/bike5,https://www.example.com/images/bike5.jpg,1199.99,in_stock,4,EcoRide
+6,Mountain Bike 2,All-terrain mountain bike,https://www.example.com/bike6,https://www.example.com/images/bike6.jpg,699.99,preorder,0,Adventure Bikes
+7,Road Bike 2,Carbon fiber road bike for enthusiasts,https://www.example.com/bike7,https://www.example.com/images/bike7.jpg,1499.99,in_stock,5,Speedster Cycles
+8,City Bike 2,Classic city bike with basket,https://www.example.com/bike8,https://www.example.com/images/bike8.jpg,299.99,in_stock,6,Urban Cruisers
+9,Kids Bike 2,Durable kids bike for outdoor fun,https://www.example.com/bike9,https://www.example.com/images/bike9.jpg,179.99,in_stock,7,Kid Adventures
+10,Electric Bike 2,Foldable electric bike for urban exploration,https://www.example.com/bike10,https://www.example.com/images/bike10.jpg,999.99,preorder,0,EcoRide
